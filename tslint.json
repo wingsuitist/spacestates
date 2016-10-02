@@ -93,6 +93,8 @@
       "check-type"
     ],
 
+    "directive-selector-prefix": [true, "sps"],
+    "component-selector-prefix": [true, "sps"],
     "directive-selector-name": [true, "camelCase"],
     "component-selector-name": [true, "kebab-case"],
     "directive-selector-type": [true, "attribute"],
